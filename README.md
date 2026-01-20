@@ -1,3 +1,4 @@
+# Satellite Imagery-Based Property Valuation |CDC
 # Multimodal House Price Prediction 
 
 This project uses a fusion of **tabular data** and **satellite imagery** (ResNet-18) to predict property values.
